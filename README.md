@@ -1,1 +1,4 @@
 # courtdoc_extractionwithQWEN_Tkinter_GUI
+
+用于本地的完整版
+和实际操作中用于保护api的客户端和服务器端
